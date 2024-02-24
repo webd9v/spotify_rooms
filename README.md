@@ -1,3 +1,3 @@
 # Spotify Rooms
-> **Frontend:** React
+> **Frontend:** React,
 > **Backend:** Django
